@@ -48,7 +48,8 @@ def delete_node(head,val):
     return head
 
 head=delete_node(head,4)
-#print_list(head)
+
+#print_list(head)#print_list(head)
 
 
 
